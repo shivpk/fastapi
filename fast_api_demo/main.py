@@ -9,7 +9,7 @@
 # to launch the app in browser http://127.0.0.1:8000/
 # and swagger http://127.0.0.1:8000/docs/ and http://127.0.0.1:8000/redoc
 
-# Here the official documentation for restapi : https://fastapi.tiangolo.com/tutorial/
+# Here the official documentation for fastapi : https://fastapi.tiangolo.com/tutorial/
 
 
 from typing import List, Dict
